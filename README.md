@@ -1,3 +1,4 @@
+<h1>To Calculate Factorial</h1>
 <h3>To calculate the factorial of the given number using for loop</h3>
 
 <br>
